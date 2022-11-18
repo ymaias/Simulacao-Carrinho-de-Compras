@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300&display=swap');
+
+*{
+    font-family: 'Sora', sans-serif;
+    padding: 0;
+}
+
+.navbar{
+    max-height: 7vh;
+}
+
+body{
+    background-color: #ecf7ff;
+}
+
+.mt-5{
+    font-weight: 700;
+}
