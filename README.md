@@ -1,4 +1,6 @@
-# simulacao-carrinho-de-compras-senai-dvs
+# Simulacao-Carrinho-de-Compras
+
+SENAI - Desenvolvimento de Sistemas - Período 3/4
 
 Este projeto foi realizado no intuito de praticar a teoria aprendida no inicio do 3° período do técnico em desenvolvimento de sistemas, como; Programação Orientada a Objetos utilizando PHP.
 A ideia do projeto é basicamente simular de forma simples um carrinho de compras de uma "loja virtual".
